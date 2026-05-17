@@ -7,6 +7,12 @@ wheels/
 *.egg-info
 
 # Virtual environments
-.venv
-.env/
+.venv/
+env/
+venv/
 
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
